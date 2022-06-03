@@ -1,0 +1,86 @@
+h1{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.article-detail-container{
+    margin:40px 40px 70px 40px;
+}
+
+.article-container{
+    margin-bottom: 70px;
+    background-color: rgb(70, 70, 70);
+    padding:30px;
+    border-radius: 30px;
+    border: 5px solid deepskyblue;
+}
+
+.article-detail-titre{
+    margin-bottom:5px;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+.article-detail-auteur{
+    font-weight: lighter;
+    color:deepskyblue;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.article-detail-commentaire{
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.article-detail-commentaire-container{
+    margin-bottom:30px;
+}
+    
+.article-detail-com-user{
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+
+.article-detail-com-contenu{
+    margin-left:20px;
+    font-size: 1rem;
+}
+
+/* ------------- BUTTON ------------ */
+
+.up-del-container a{
+    margin:auto;
+    text-decoration: none;
+    padding:10px;
+    border: 1px solid deepskyblue;
+    color:deepskyblue;
+    background-color: black;
+    font-size: 1rem;
+}
+
+.up-del-container a:hover{
+    background-color: deepskyblue;
+    color:white;
+}
+
+.up-del-container button{
+    margin:auto;
+    margin-left: 20px;
+    text-decoration: none;
+    padding:10px;
+    border: 1px solid red;
+    color:red;
+    border-radius: 0;
+    background-color: black;
+    font-size: 1rem;
+}
+
+.up-del-container button:hover{
+    background-color: red;
+    color:white;
+    cursor: pointer;
+}
+

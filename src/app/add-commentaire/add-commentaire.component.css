@@ -1,0 +1,26 @@
+form{
+    margin-bottom:50px;
+}
+
+.comment-input{
+    height: 30px;
+    width:500px;
+}
+
+.comment-button{
+    height: 35px;
+    border: 1px solid deepskyblue;
+    color:deepskyblue;
+    border-radius: 0;
+    background-color: white;
+    font-size: 1rem;
+    margin-left:15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.comment-button:hover{
+    background-color: deepskyblue;
+    color:white;
+    cursor:pointer;
+}
